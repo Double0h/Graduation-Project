@@ -24,3 +24,8 @@ Gets tweets that include word "Turkey" from twitter API and writes them to Kafka
 
 ElasticSearch consumer,
 Gets filtered tweets and saves them into elasticsearch.
+
+# 6)Poster
+
+A producer,
+Makes post requests to write data to Kafka over Kafka-Rest API.
